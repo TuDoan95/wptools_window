@@ -1,0 +1,26 @@
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Cache files
+data/cache/
+
+# Secure folder
+.secure/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
