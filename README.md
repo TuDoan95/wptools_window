@@ -165,3 +165,6 @@ Xây dựng backlinks: Liên kết từ các trang web uy tín vẫn cực kỳ 
 Core Web Vitals: Đảm bảo trang web nhanh và thân thiện với người dùng
 Tạo liên kết nội bộ giữa các bài viết để tăng thời gian đọc
 Mobile-first: Đảm bảo trang web hoạt động tốt trên thiết bị di động
+
+## Lệnh chạy chương trình liên tục 
+python main.py --continuous --interval 750 --random --workers 3
